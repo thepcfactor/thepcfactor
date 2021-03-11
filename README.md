@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am a budding student at IISER Kolkata, one of the foremost research institutes of India with a solid background in Basic Sciences and a keen interest in programming 😄😄😄
 <!--
 **thepcfactor/thepcfactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
